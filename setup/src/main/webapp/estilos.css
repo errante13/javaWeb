@@ -1,0 +1,27 @@
+@charset "ISO-8859-1";
+
+*{
+	
+	margin: 10pxM; 
+	padding: 10px; 
+	
+}
+
+div{
+	
+	height: 100px; 
+	width: 100px; 
+	display: inline-block;
+}
+
+.par {
+	
+	background-color: blue;
+	
+}
+
+.impar {
+	
+	background-color: aqua;
+	
+}
